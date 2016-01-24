@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-BuldAndRun</actionName>
+            <displayName>BuldAndRun</displayName>
+            <goals>
+                <goal>clean:clean</goal>
+            </goals>
+        </action>
+        <action>
+            <actionName>CUSTOM-compile</actionName>
+            <displayName>compile</displayName>
+            <goals>
+                <goal>compiler:compile</goal>
+            </goals>
+        </action>
+    </actions>
